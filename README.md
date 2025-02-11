@@ -8,7 +8,7 @@
 - `python main.py`
 
 ## Проект:
-- X: https://x.com/din_lol_
+- X: [@din_lol_](https://x.com/din_lol_)
 - Official checker: https://airdrop.din.lol/
 
 ### **Код написан автором канала:** https://t.me/Eazercrypto
